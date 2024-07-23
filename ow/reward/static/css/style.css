@@ -1,0 +1,111 @@
+/* CSS Document */
+body { background: #251f1d }
+.l { float: left }
+.r { float: right }
+/*header*/
+.header { height: 71px; background: url("../images/header_b.jpg")/*tpa=http://www.tlsf3.com:88/images/header_b.jpg*/ no-repeat center 0 }
+.header_n { width: 1200px; height: 71px; margin: 0 auto }
+.header_n_l { margin-top: 22px }
+.header_n_l a { font-size: 18px; color: #cfa972; margin-right: 110px }
+.header_n_l a:hover { color: #f5debc }
+.header_n_r { margin-top: 22px }
+.header_n_r a { font-size: 18px; color: #cfa972; margin-left: 110px }
+.header_n_r a:hover { color: #f5debc }
+/*container*/
+.banner { background: url("../images/banner.jpg")/*tpa=http://www.tlsf3.com:88/images/banner.jpg*/ no-repeat center 0; min-height: 1710px; overflow: hidden; margin-bottom: 30px}
+.banner_n { top: 548px;
+    width: 1182px;
+    margin: 0 auto;
+    margin-top: 548px;}
+.banner_denglu { width: 320px; overflow: hidden; }
+.banner_denglu > a { display: inline-block; float: left; overflow: hidden; }
+.pic_1 { width: 320px; height: 151px; background: url("../images/1.jpg")/*tpa=http://www.tlsf3.com:88/images/1.jpg*/ no-repeat; }
+.pic_1:hover { width: 320px; height: 151px; background: url("../images/11.jpg")/*tpa=http://www.tlsf3.com:88/images/11.jpg*/ no-repeat; }
+.pic_2 { width: 161px; height: 45px; background: url("../images/2.jpg")/*tpa=http://www.tlsf3.com:88/images/2.jpg*/ no-repeat; }
+.pic_2:hover { width: 161px; height: 45px; background: url("../images/22.jpg")/*tpa=http://www.tlsf3.com:88/images/22.jpg*/ no-repeat; }
+.pic_3 { width: 159px; height: 45px; background: url("../images/3.jpg")/*tpa=http://www.tlsf3.com:88/images/3.jpg*/ no-repeat; }
+.pic_3:hover { width: 159px; height: 45px; background: url("../images/33.jpg")/*tpa=http://www.tlsf3.com:88/images/33.jpg*/ no-repeat; }
+.pic_4 { width: 320px; height: 124px; background: url("../images/4.jpg")/*tpa=http://www.tlsf3.com:88/images/4.jpg*/ no-repeat; }
+.pic_4:hover { width: 320px; height: 124px; background: url("../images/44.jpg")/*tpa=http://www.tlsf3.com:88/images/44.jpg*/ no-repeat; }
+.banner_lunbo { width: 862px; height: 320px; display: block; overflow: hidden; }
+.fwq { width: 320px; height: 328px; background: url("../images/two_l.jpg")/*tpa=http://www.tlsf3.com:88/images/two_l.jpg*/ no-repeat; overflow:hidden}
+.jieshao { width: 862px; height: 328px; background: url("../images/two_r.jpg")/*tpa=http://www.tlsf3.com:88/images/two_r.jpg*/ no-repeat; }
+.js_nr { color: #d1c0a5; font-size: 14px; width: 730px; margin-left: 100px; margin-top: 30px; line-height: 30px; }
+.fwq p { margin-left: 36px; line-height: 28px; }
+.fwq span { width: 50px; display: inline-block; font-size: 14px; color: #ffffff; margin-right: 5px }
+.fwq a { font-size: 14px; color: #ffffff; margin-right: 10px }
+.fwq a:hover { text-decoration: underline }
+.biaoti { font-size: 24px; color: #7f635f; margin-top: 12px; padding-left: 27px; }
+.kaifu_n { width: 320px; overflow: hidden; }
+.kefu1 { width: 320px; height: 334px; background: url("../images/kaifu_l_1.jpg")/*tpa=http://www.tlsf3.com:88/images/kaifu_l_1.jpg*/ no-repeat; }
+.kefu1 p { font-size: 24px; color: #7f635f; padding: 25px 0 15px 26px; }
+.kefu1 span { font-size: 14px; color: #d1c0a5; margin-left: 26px; line-height: 34px; display: inline-block; }
+.kefu2 { width: 320px; height: 140px; background: url("../images/kaifu_l_2.jpg")/*tpa=http://www.tlsf3.com:88/images/kaifu_l_2.jpg*/ no-repeat; }
+.kaifu_nn { width: 862px; height: 473px; background: #382825; }
+.tel { color: #d1c0a5; font-size: 14px; padding: 72px 0 0 146px; line-height: 20px; }
+.kqfuwu { width: 810px; margin: 10px auto 0; overflow: hidden; }
+.kqfuwu > p { font-size: 24px; color: #7f635f; margin-top: 10px }
+.kqfuwu > p >img { width: 14px; padding: 10px 10px 0 10px; }
+.liebiao { width: 810px; margin: 0 auto; overflow: hidden; }
+.lb_title span { font-size: 18px; color: #d1c0a5; display: inline-block; width: 25%; text-align: center; font-weight: bold }
+.liebiao li { width: 810px; height: 42px; border-bottom: 1px solid #533e3a; display: block; line-height: 34px; }
+.liebiao>li>span { font-size: 12px }
+.info_biao li { width: 813px; height: 42px; line-height: 42px; display: block; float: left; border-bottom: 1px solid #533e3a }
+.info_biao { width: 813px; margin: 0 auto; overflow: hidden }
+.info_title span { width: 25%; height: 42px; overflow: hidden; display: inline-block; font-size: 18px; font-weight: bold; text-align: center; line-height: 42px; color: #d1c0a5 }
+.info_lie > span { width: 25%; height: 42px; overflow: hidden; display: inline-block; text-align: center; float: left }
+.tuijian { background: #fb4a1b; padding: 2px 5px; color: #FFF; border-radius: 2px }
+.tianlong { color: #FFF; font-size: 14px; padding: 0 10px }
+.xinfu { color: #FFF; background: #d52626; padding: 2px 3px 2px 3px; border-radius: 2px }
+.hefu { color: #FFF; background: #915317; padding: 2px 3px 2px 5px; border-radius: 2px }
+.jj { margin-left: 2px }
+.ll { margin-left: -10px }
+.riqi { color: #d1c0a5 }
+.xiazai a { color: #ec4828; font-size: 12px }
+.xiazai a:hover { color: #f39800 }
+.kefu_jg > a { width: 86px; height: 26px; line-height: 24px; color: #cfa972; font-size: 14px; border: 2px solid #cfa972; display: inline-block; border-radius: 50px }
+.kefu_jg a:hover { background: #c5a06d; color: #6a3906 }
+.footer { width: 100%; height: 200px; background: #000000 }
+.footer_n { width: 1200px; overflow: hidden; margin: 0 auto }
+.footer_l { margin: 40px 0 0 15px }
+.footer_r { color: #7e6b5a; font-size: 14px; margin: 46px 20px 0 0; line-height: 26px }
+.footer_r a { color: #7e6b5a; font-size: 14px }
+.footer_r a:hover { text-transform: uppercase }
+/*xiangxi*/
+.xiangxi{ width:1182px; min-height:800px; overflow:hidden; margin:0 auto;  background: url("../images/new_b.jpg")/*tpa=http://www.tlsf3.com:88/images/new_b.jpg*/ repeat-y; }
+.xiangxi_l{ width:320px; overflow:hidden}
+.wenzhang{ width:813px; font-size:14px; color:#d1c0a5; line-height:24px; margin-top:20px; padding-bottom: 20px;}
+
+.tanceng{ width:100%; height:100%; background:#000; filter:alpha(opacity=80); 
+-moz-opacity:0.8; 
+opacity:0.8;
+position:absolute; top:0; left:0; z-index:5}
+.tanceng_n{ width:667px; height:425px; background:#dec9ac; position:absolute; top:50%; left:50%; margin-left:-324px; margin-top:-230px; z-index:999999}
+.tanceng_n a{ float:right}
+.tanceng_title{ width:667px; text-align:center; font-size:30px; font-weight:bold; color:#6a3906; margin-top:63px}
+.tanceng_n_text{ width:600px; margin:30px auto 0; color:#6a3906; font-size:14px; line-height:30px; text-align:justify}
+
+.DB_tab25 {width:100%;height:320px;position:relative;overflow:hidden;cursor:pointer;}
+.DB_tab25 .DB_bgSet{position:relative;}
+.DB_tab25 .DB_bgSet li{position:absolute;width:100%;height:320px;display:none;}
+.DB_tab25 .DB_imgSet{position:absolute;width:988px;left:50%;margin-left:-500px;}
+.DB_tab25 .DB_menuWrap{position:absolute;width:988px;left:50%;margin-left:-500px;}
+.DB_tab25 .DB_menuWrap .DB_menuSet{position:absolute;width:100%;top:286px;text-align:center;font-size:0; border-radius:20px;}
+.DB_tab25 .DB_menuWrap .DB_menuSet li{cursor:pointer;margin:0 3px;display:inline}
+.DB_tab25 .DB_prev{position:absolute;left:100px;top:140px;cursor:pointer;display:none}
+.DB_tab25 .DB_next{position:absolute;right:100px;top:140px;cursor:pointer;display:none}
+
+/*客服*/
+.server { width: 96px; height: 450px; position: fixed; _position: absolute; _bottom: auto;  _top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop, 10)||0)-(parseInt(this.currentStyle.marginBottom, 10)||0)));
+right: 30px; top: 50%; margin-top: -221px; _margin-bottom: 40%; }
+.server ul li { float: none; }
+.server ul li a { display: inline-block; width: 96px; height: 95px; background: url("../images/aoyoo.com_icon_01.png")/*tpa=http://www.tlsf3.com:88/images/AoYoo.Com_icon_01.png*/; }
+.server ul li #statement { background-position: -376px -5px; }
+.server ul li #statement:hover { background-position: -486px -5px; }
+.server ul li #online_service { background-position: -376px -102px; }
+.server ul li #online_service:hover { background-position: -486px -102px; }
+.server ul li #repay { background-position: -376px -200px; }
+.server ul li #repay:hover { background-position: -486px -200px; }
+.server ul li #wechat { height: 125px; cursor: default; background-position: -376px -296px; }
+.server ul li #return_top { height: 25px; background-position: -376px -421px; }
+.server ul li #return_top:hover { height: 25px; background-position: -486px -421px; }
